@@ -4,6 +4,7 @@ Contact[Kevin Stewart kwstewart0709@yahoo.com, 404-993-4318
 
 
 Methods Used:
+
 EDA
 Naive Bayes
 Logistic Regression
